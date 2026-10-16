@@ -1,220 +1,220 @@
 country_key,cities,metro_cities,entities
-afghanistan,8,7,8
+afghanistan,8,8,7
 aland islands,1,0,1
-albania,9,9,7
-algeria,52,50,35
+albania,9,7,6
+algeria,52,50,31
 american samoa,1,0,1
 andorra,1,0,1
 angola,8,6,7
 anguilla,1,0,1
 antarctica,1,0,1
 antigua and barbuda,1,0,1
-argentina,190,147,101
+argentina,190,147,90
 armenia,7,4,6
 aruba,1,0,1
-australia,1006,718,316
-austria,126,70,62
-azerbaijan,3,3,3
+australia,1006,758,155
+austria,126,74,22
+azerbaijan,3,3,2
 bahamas,2,1,2
 bahrain,2,2,1
-bangladesh,31,28,24
+bangladesh,31,27,21
 barbados,2,2,1
 belarus,6,6,6
-belgium,447,427,29
+belgium,447,431,11
 belize,3,1,3
-benin,5,5,4
+benin,5,5,3
 bhutan,1,1,1
 bolivia,10,9,9
 bonaire saint eustatius and saba,1,0,1
 bosnia and herzegovina,9,6,8
-botswana,11,4,11
-brazil,952,705,510
-brunei,3,1,3
-bulgaria,24,23,21
+botswana,11,4,10
+brazil,952,668,410
+brunei,3,1,2
+bulgaria,24,21,20
 burkina faso,5,4,4
 burundi,2,1,2
-cabo verde,4,4,2
+cabo verde,4,3,3
 cambodia,2,2,2
 cameroon,14,13,13
-canada,616,321,348
+canada,616,308,208
 cayman islands,1,0,1
 central african republic,2,1,2
 chad,2,1,2
-chile,120,89,55
-china,223,209,191
+chile,120,87,46
+china,223,212,146
 christmas island,1,0,1
-colombia,173,133,90
+colombia,173,131,76
 comoros,1,0,1
 congo,4,2,4
-costa rica,20,11,11
-croatia,29,17,19
-cuba,15,14,13
+costa rica,20,13,7
+croatia,29,13,19
+cuba,15,13,14
 curacao,1,1,1
-cyprus,8,6,5
+cyprus,8,4,5
 czech republic,2,1,2
-czechia,103,84,33
+czechia,103,69,27
 democratic republic of the congo,11,11,11
-denmark,241,155,94
+denmark,241,141,26
 djibouti,1,0,1
 dominica,2,0,2
-dominican republic,21,21,11
-ecuador,45,32,30
-egypt,38,33,27
-el salvador,11,9,6
+dominican republic,21,21,6
+ecuador,45,32,26
+egypt,38,33,20
+el salvador,11,10,5
 equatorial guinea,2,2,2
 eritrea,1,1,1
 estonia,8,4,7
 eswatini,1,1,1
 ethiopia,14,13,11
 faroe islands,1,0,1
-fiji,3,3,2
-finland,95,48,59
-france,2341,1820,595
+fiji,3,2,3
+finland,95,43,43
+france,2341,1705,208
 french guiana,6,4,3
-french polynesia,2,0,2
+french polynesia,2,2,1
 gabon,3,2,3
 gambia,3,2,2
 georgia,7,5,6
-germany,979,886,181
-ghana,18,14,13
-greece,86,59,44
+germany,979,809,115
+ghana,18,15,11
+greece,86,54,36
 greenland,3,0,3
-guadeloupe,8,8,1
+guadeloupe,8,7,2
 guam,4,0,4
-guatemala,23,19,12
+guatemala,23,18,12
 guernsey,3,0,3
 guinea,4,3,3
 guinea bissau,1,1,1
 guyana,1,1,1
-haiti,11,11,4
-honduras,10,7,8
-hungary,53,47,26
-iceland,6,5,2
-india,868,787,531
-indonesia,279,255,122
-iran,40,39,36
-iraq,12,9,11
-ireland,109,64,49
+haiti,11,11,3
+honduras,10,6,8
+hungary,53,40,31
+iceland,6,4,3
+india,868,759,429
+indonesia,279,252,103
+iran,40,39,35
+iraq,12,9,10
+ireland,109,59,24
 isle of man,3,0,3
-israel,71,69,10
-italy,1114,911,264
-ivory coast,11,10,6
+israel,71,68,7
+italy,1114,840,123
+ivory coast,11,10,5
 jamaica,8,5,5
-japan,55,51,39
+japan,55,52,27
 jersey,1,0,1
-jordan,11,10,6
+jordan,11,10,4
 kazakhstan,17,15,15
-kenya,35,22,23
-kosovo,6,6,5
-kuwait,6,6,2
+kenya,35,26,18
+kosovo,6,6,2
+kuwait,6,6,1
 kyrgyzstan,2,2,2
 laos,2,1,2
-latvia,8,6,6
-lebanon,23,23,5
+latvia,8,6,5
+lebanon,23,23,3
 lesotho,2,1,2
 liberia,3,2,2
 libya,3,2,3
 liechtenstein,7,0,7
 lithuania,8,7,7
-luxembourg,17,0,17
+luxembourg,17,13,4
 macedonia,1,0,1
 madagascar,7,6,7
 malawi,6,4,6
-malaysia,117,103,47
+malaysia,117,105,34
 maldives,1,1,1
 mali,6,5,6
-malta,21,0,21
+malta,21,20,2
 marshall islands,1,0,1
 martinique,8,8,1
 mauritania,2,2,2
 mauritius,24,24,1
 mayotte,1,1,1
-mexico,323,278,153
+mexico,323,273,128
 micronesia,1,0,1
-moldova,5,3,5
+moldova,5,4,4
 monaco,1,0,1
 mongolia,1,1,1
 montenegro,1,1,1
-morocco,33,28,26
+morocco,33,28,22
 mozambique,9,9,8
 myanmar,5,5,5
-namibia,12,6,10
-nepal,16,13,14
-netherlands,965,936,46
+namibia,12,5,9
+nepal,16,13,13
+netherlands,965,938,22
 new caledonia,2,2,1
-new zealand,97,58,50
+new zealand,97,54,37
 nicaragua,12,10,7
 niger,1,1,1
-nigeria,99,81,72
+nigeria,99,82,49
 north korea,1,0,1
-north macedonia,11,10,8
+north macedonia,11,9,7
 northern mariana islands,1,0,1
-norway,146,70,85
+norway,146,54,46
 oman,12,12,8
-pakistan,95,84,64
+pakistan,95,79,49
 palau,1,0,1
-palestinian territory,8,8,4
+palestinian territory,8,8,3
 panama,8,5,6
 papua new guinea,7,2,7
-paraguay,23,19,9
-peru,104,71,71
-philippines,144,122,67
-poland,252,209,101
-portugal,219,132,95
-puerto rico,46,38,11
+paraguay,23,17,10
+peru,104,70,57
+philippines,144,121,54
+poland,252,198,85
+portugal,219,142,36
+puerto rico,46,36,13
 qatar,4,3,2
 republic of the congo,2,2,2
 reunion,14,14,2
-romania,55,46,39
-russia,82,74,76
+romania,55,40,40
+russia,82,74,75
 rwanda,5,3,4
 saint kitts and nevis,1,0,1
 saint pierre and miquelon,1,0,1
 samoa,1,0,1
-saudi arabia,38,33,29
-senegal,11,9,7
-serbia,37,32,22
+saudi arabia,38,32,28
+senegal,11,10,5
+serbia,37,27,23
 sierra leone,6,5,3
 singapore,3,3,1
-slovakia,31,26,15
+slovakia,31,18,18
 slovenia,14,5,10
 solomon islands,1,1,1
 somalia,4,3,4
-south africa,204,157,104
-south korea,31,28,21
+south africa,204,149,84
+south korea,31,29,12
 south sudan,2,1,2
-spain,682,567,190
-sri lanka,52,46,16
+spain,682,535,119
+sri lanka,52,44,14
 sudan,7,7,5
 suriname,2,2,1
 svalbard and jan mayen,1,0,1
 swaziland,1,0,1
-sweden,353,164,205
-switzerland,396,347,57
-syria,7,7,6
-taiwan,9,9,6
+sweden,353,138,72
+switzerland,396,325,31
+syria,7,7,4
+taiwan,9,9,4
 tajikistan,2,1,2
 tanzania,23,18,20
-thailand,57,44,45
+thailand,57,42,39
 togo,2,2,2
 tonga,1,0,1
-trinidad and tobago,9,9,3
-tunisia,41,35,21
-turkey,191,163,106
+trinidad and tobago,9,7,5
+tunisia,41,35,19
+turkey,191,165,73
 turkmenistan,1,1,1
 u s virgin islands,1,1,1
-uganda,25,18,19
+uganda,25,17,18
 ukraine,37,36,32
-united arab emirates,10,9,7
-united kingdom,1398,1270,183
-united states,7484,4817,2998
-uruguay,21,11,17
+united arab emirates,10,9,6
+united kingdom,1398,1242,81
+united states,7484,4726,1128
+uruguay,21,12,15
 uzbekistan,5,4,5
 vanuatu,1,0,1
 vatican,1,0,1
-venezuela,50,50,26
-vietnam,28,22,21
+venezuela,50,50,22
+vietnam,28,25,14
 western sahara,1,1,1
-yemen,10,3,10
-zambia,18,14,16
-zimbabwe,19,11,17
+yemen,10,3,7
+zambia,18,14,14
+zimbabwe,19,10,18

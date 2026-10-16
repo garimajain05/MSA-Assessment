@@ -1,7 +1,16 @@
 [project]
 name = "msa-assessment"
 version = "0.1.0"
-description = "Add your description here"
+description = "Population-aware metropolitan area clustering for US and international cities"
 readme = "README.md"
-requires-python = ">=3.14"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+    "numpy==2.3.4",
+    "pandas==2.3.3",
+    "scikit-learn==1.7.2",
+    "matplotlib==3.10.7",
+    "nbformat==5.10.4",
+    "nbclient==0.10.2",
+    "ipykernel==6.31.0",
+    "jupyterlab>=4,<5",
+]

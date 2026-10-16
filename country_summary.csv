@@ -1,0 +1,220 @@
+country_key,cities,metro_cities,entities
+afghanistan,8,7,8
+aland islands,1,0,1
+albania,9,9,7
+algeria,52,50,35
+american samoa,1,0,1
+andorra,1,0,1
+angola,8,6,7
+anguilla,1,0,1
+antarctica,1,0,1
+antigua and barbuda,1,0,1
+argentina,190,147,101
+armenia,7,4,6
+aruba,1,0,1
+australia,1006,718,316
+austria,126,70,62
+azerbaijan,3,3,3
+bahamas,2,1,2
+bahrain,2,2,1
+bangladesh,31,28,24
+barbados,2,2,1
+belarus,6,6,6
+belgium,447,427,29
+belize,3,1,3
+benin,5,5,4
+bhutan,1,1,1
+bolivia,10,9,9
+bonaire saint eustatius and saba,1,0,1
+bosnia and herzegovina,9,6,8
+botswana,11,4,11
+brazil,952,705,510
+brunei,3,1,3
+bulgaria,24,23,21
+burkina faso,5,4,4
+burundi,2,1,2
+cabo verde,4,4,2
+cambodia,2,2,2
+cameroon,14,13,13
+canada,616,321,348
+cayman islands,1,0,1
+central african republic,2,1,2
+chad,2,1,2
+chile,120,89,55
+china,223,209,191
+christmas island,1,0,1
+colombia,173,133,90
+comoros,1,0,1
+congo,4,2,4
+costa rica,20,11,11
+croatia,29,17,19
+cuba,15,14,13
+curacao,1,1,1
+cyprus,8,6,5
+czech republic,2,1,2
+czechia,103,84,33
+democratic republic of the congo,11,11,11
+denmark,241,155,94
+djibouti,1,0,1
+dominica,2,0,2
+dominican republic,21,21,11
+ecuador,45,32,30
+egypt,38,33,27
+el salvador,11,9,6
+equatorial guinea,2,2,2
+eritrea,1,1,1
+estonia,8,4,7
+eswatini,1,1,1
+ethiopia,14,13,11
+faroe islands,1,0,1
+fiji,3,3,2
+finland,95,48,59
+france,2341,1820,595
+french guiana,6,4,3
+french polynesia,2,0,2
+gabon,3,2,3
+gambia,3,2,2
+georgia,7,5,6
+germany,979,886,181
+ghana,18,14,13
+greece,86,59,44
+greenland,3,0,3
+guadeloupe,8,8,1
+guam,4,0,4
+guatemala,23,19,12
+guernsey,3,0,3
+guinea,4,3,3
+guinea bissau,1,1,1
+guyana,1,1,1
+haiti,11,11,4
+honduras,10,7,8
+hungary,53,47,26
+iceland,6,5,2
+india,868,787,531
+indonesia,279,255,122
+iran,40,39,36
+iraq,12,9,11
+ireland,109,64,49
+isle of man,3,0,3
+israel,71,69,10
+italy,1114,911,264
+ivory coast,11,10,6
+jamaica,8,5,5
+japan,55,51,39
+jersey,1,0,1
+jordan,11,10,6
+kazakhstan,17,15,15
+kenya,35,22,23
+kosovo,6,6,5
+kuwait,6,6,2
+kyrgyzstan,2,2,2
+laos,2,1,2
+latvia,8,6,6
+lebanon,23,23,5
+lesotho,2,1,2
+liberia,3,2,2
+libya,3,2,3
+liechtenstein,7,0,7
+lithuania,8,7,7
+luxembourg,17,0,17
+macedonia,1,0,1
+madagascar,7,6,7
+malawi,6,4,6
+malaysia,117,103,47
+maldives,1,1,1
+mali,6,5,6
+malta,21,0,21
+marshall islands,1,0,1
+martinique,8,8,1
+mauritania,2,2,2
+mauritius,24,24,1
+mayotte,1,1,1
+mexico,323,278,153
+micronesia,1,0,1
+moldova,5,3,5
+monaco,1,0,1
+mongolia,1,1,1
+montenegro,1,1,1
+morocco,33,28,26
+mozambique,9,9,8
+myanmar,5,5,5
+namibia,12,6,10
+nepal,16,13,14
+netherlands,965,936,46
+new caledonia,2,2,1
+new zealand,97,58,50
+nicaragua,12,10,7
+niger,1,1,1
+nigeria,99,81,72
+north korea,1,0,1
+north macedonia,11,10,8
+northern mariana islands,1,0,1
+norway,146,70,85
+oman,12,12,8
+pakistan,95,84,64
+palau,1,0,1
+palestinian territory,8,8,4
+panama,8,5,6
+papua new guinea,7,2,7
+paraguay,23,19,9
+peru,104,71,71
+philippines,144,122,67
+poland,252,209,101
+portugal,219,132,95
+puerto rico,46,38,11
+qatar,4,3,2
+republic of the congo,2,2,2
+reunion,14,14,2
+romania,55,46,39
+russia,82,74,76
+rwanda,5,3,4
+saint kitts and nevis,1,0,1
+saint pierre and miquelon,1,0,1
+samoa,1,0,1
+saudi arabia,38,33,29
+senegal,11,9,7
+serbia,37,32,22
+sierra leone,6,5,3
+singapore,3,3,1
+slovakia,31,26,15
+slovenia,14,5,10
+solomon islands,1,1,1
+somalia,4,3,4
+south africa,204,157,104
+south korea,31,28,21
+south sudan,2,1,2
+spain,682,567,190
+sri lanka,52,46,16
+sudan,7,7,5
+suriname,2,2,1
+svalbard and jan mayen,1,0,1
+swaziland,1,0,1
+sweden,353,164,205
+switzerland,396,347,57
+syria,7,7,6
+taiwan,9,9,6
+tajikistan,2,1,2
+tanzania,23,18,20
+thailand,57,44,45
+togo,2,2,2
+tonga,1,0,1
+trinidad and tobago,9,9,3
+tunisia,41,35,21
+turkey,191,163,106
+turkmenistan,1,1,1
+u s virgin islands,1,1,1
+uganda,25,18,19
+ukraine,37,36,32
+united arab emirates,10,9,7
+united kingdom,1398,1270,183
+united states,7484,4817,2998
+uruguay,21,11,17
+uzbekistan,5,4,5
+vanuatu,1,0,1
+vatican,1,0,1
+venezuela,50,50,26
+vietnam,28,22,21
+western sahara,1,1,1
+yemen,10,3,10
+zambia,18,14,16
+zimbabwe,19,11,17

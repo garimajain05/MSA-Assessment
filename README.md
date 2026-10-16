@@ -9,7 +9,7 @@ in the US and internationally, with explicit non-metro regions.
    (or `uv sync`).
 3. Install: `python -m pip install -r requirements.txt`
 4. Either open the notebook (`python -m jupyterlab`) and choose Run All, or run it headlessly with
-   `python main.py` (about 1–2 minutes).
+   `python main.py`
 
 ## Outputs
 - `msa_output.csv`: the deliverable. One row per input row, with columns City, State, Latitude,
